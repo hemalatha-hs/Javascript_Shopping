@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,900;1,700;1,900&display=swap');
+
+*{
+    margin:0;
+    padding :0;
+    box-sizing:border-box;
+    font-family: "Poppins",sans-serif;
+}
+
+h1{
+    font-family: "Poppins",sans-serif;
+}
+
+i{
+    cursor: pointer;
+}
+
+p{
+    text-decoration: none;
+}
+
+.card-title {
+    font-size: 1.2rem;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+
+
+
+
+.navbar{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #212569;
+    color: black;
+    padding: 25px 60px;
+    margin-bottom: 30px;
+}
+
+
+
+
+ 
