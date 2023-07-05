@@ -7,6 +7,10 @@
     box-sizing:border-box;
     font-family: "Poppins",sans-serif;
 }
+.shop{
+    text-align: center;
+    color: black;
+}
 
 h1{
     font-family: "Poppins",sans-serif;
