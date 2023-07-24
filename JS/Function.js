@@ -2,16 +2,16 @@
 const tshirt = [
     {
         id: 1,
-        name: "Pendrive",
-        image: "../Images/pendrive.jpg",
-        price: 579,
+        name: "Calculator",
+        image: "../Images/calci.jpg",
+        price: 745,
         quantity: 0
     },
     {
         id: 2,
-        name: "Monitor",
-        image: "../Images/monitor.jpg",
-        price: 14278,
+        name: "Mouse",
+        image: "../Images/mouse.jpg",
+        price: 299,
         quantity: 0
     },
     {
